@@ -53,3 +53,5 @@ Images of UI on the platform
 ![image](https://user-images.githubusercontent.com/55374010/197109769-cdae7e9f-af9b-4aff-af03-f50e30b104b8.png)
 
 ![image](https://user-images.githubusercontent.com/55374010/197109922-d36ad58e-d835-45fc-97be-6819d6c2ccac.png)
+
+Team Members: Hariharan Sivakumar, Akash Gajendra, Aarish Brohi, Keith Adams, Stephen Ndubueze
